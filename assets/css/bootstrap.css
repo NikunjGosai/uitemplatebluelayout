@@ -38,7 +38,7 @@ button{font-family: inherit;outline: 0;border: 0;}
     --red-color: #FB3F0F;
     --white-color: #fff; 
     --black-color: #000;
-    /* --gradient-color: radial-gradient(118.3% 102.98% at 70.88% -13.63%, #9686FF 0%, #E7BCFF 100%); */
+    --blue-color: #1C207B;
 }
 
 /* scrollbar */
